@@ -33,4 +33,4 @@ Got a useful workflow to share? Feel free to **open a pull request** or create a
 
 ## 💡 Stay Connected  
 I’m sharing these templates openly to help the automation community.  
-If you find this useful, please ⭐ the repo and say hello on [LinkedIn](https://www.linkedin.com/in/girma-w-a16429263). Thank you! 🙏  
+If you find this useful, please ⭐ the repo and say hello on [LinkedIn](www.linkedin.com/in/girma-w-8812aa378). Thank you! 🙏  
